@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\bin\Debug\net6.0\struct_kavramı.exe
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\bin\Debug\net6.0\struct_kavramı.deps.json
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\bin\Debug\net6.0\struct_kavramı.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\bin\Debug\net6.0\struct_kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\bin\Debug\net6.0\struct_kavramı.pdb
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\refint\struct_kavramı.dll
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.pdb
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\struct_kavramı.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\struct_kavramı\obj\Debug\net6.0\ref\struct_kavramı.dll

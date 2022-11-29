@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "struct_kavramı/1.0.0": {
+        "runtime": {
+          "struct_kavramı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "struct_kavramı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
